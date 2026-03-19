@@ -1,3 +1,5 @@
+**Instantly analyze your resume against any job description for ATS optimization and better job matches.**
+
 **Instantly analyze and optimize your resume for ATS and better job matches.**
 
 AI Resume Analyzer instantly reviews your resume against any job description. Get an ATS compatibility score, detect missing keywords, and receive precise, actionable improvements that help you beat filters and stand out to recruiters.
@@ -17,8 +19,10 @@ Upload → Analyze → Land interviews faster.
 3. Receive an instant AI analysis with score and recommendations
 
 ## Pricing
-- **Free Tier**: 5 uses per day on Hugging Face Space.
-- **Unlimited Plan**: Upgrade for unlimited usage via secure Stripe payments (no crypto).
+- **Free**: 5 uses/day with usage limits
+- **Unlimited Plan**: Upgrade for unlimited usage via secure Stripe payments.
+
+**Upgrade with Stripe for unlimited access** — Secure checkout, no crypto.
 
 ## Use Case
 Optimize your resume for a specific Software Engineer role at a target company in under 60 seconds.
