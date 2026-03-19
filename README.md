@@ -32,3 +32,9 @@ This tool combines advanced language models with real-world ATS rules used by Fo
 ## Pricing
 Free tier: 5 uses/day with clear use case for resume optimization.
 Upgrade for unlimited via Stripe checkout.
+
+
+
+    ## USE CASE
+    Analyze resumes for ATS compatibility, skill gaps, and job match scores.
+    
