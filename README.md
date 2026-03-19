@@ -4,4 +4,24 @@ AI Resume Analyzer instantly reviews your resume against any job description. Ge
 
 Upload → Analyze → Land interviews faster.
 
-(187 characters)
+## Features
+- ATS compatibility scoring with detailed breakdown
+- Missing keywords and skill gap detection
+- Precise, actionable improvement suggestions
+- Recruiter-friendly phrasing recommendations
+- One-click report export
+
+## How It Works
+1. Upload your resume (PDF, DOCX, or plain text)
+2. Paste the target job description
+3. Receive an instant AI analysis with score and recommendations
+
+## Pricing
+- **Free Tier**: 5 uses per day on Hugging Face Space.
+- **Unlimited Plan**: Upgrade for unlimited usage via secure Stripe payments (no crypto).
+
+## Use Case
+Optimize your resume for a specific Software Engineer role at a target company in under 60 seconds.
+
+## Why It Works
+This tool combines advanced language models with real-world ATS rules used by Fortune 500 companies and top recruiting platforms to give you a competitive edge in today's job market.
