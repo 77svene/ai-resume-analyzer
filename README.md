@@ -29,3 +29,6 @@ Optimize your resume for a specific Software Engineer role at a target company i
 
 ## Why It Works
 This tool combines advanced language models with real-world ATS rules used by Fortune 500 companies and top recruiting platforms to give you a competitive edge in today's job market.
+## Pricing
+Free tier: 5 uses/day with clear use case for resume optimization.
+Upgrade for unlimited via Stripe checkout.
