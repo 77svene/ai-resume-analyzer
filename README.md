@@ -38,3 +38,6 @@ Upgrade for unlimited via Stripe checkout.
     ## USE CASE
     Analyze resumes for ATS compatibility, skill gaps, and job match scores.
     
+
+## AI-RESUME-ANALYZER
+[Generated Content for: Generate a short 'USE CASE' section for a README about ai-resume-analyzer. Keep it under 50 words. Focus on practical applications.]
